@@ -59,6 +59,10 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
     - Can't find PCB info anymore
 1. [Zynthian](/synths/zynthian)
     - Can't find PCB info anymore
+1. [Quad Creek](https://github.com/uvknhn/quad-creek/)
+1. [MiniTeensy Synth](https://github.com/NickCulbertson/Mini-Teensy-Synth/)
+1. [Black Death](https://1010.co.uk/org/blackdeath.html)
+1. [LEET-synthesizer](https://github.com/vonkonow/LEET-Synthesizer)
 
 ## Worth to mention
 1. [Dart One MIDI controller](https://dartmobo.com/dart-one-arduino-open-controller-arcade/)
