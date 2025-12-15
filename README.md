@@ -44,10 +44,12 @@ your building experience.
 1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
 1. [MiniMO](https://github.com/enveloop/miniMO) — ATtiny85 mini modular system
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
+1. [Moduleur](https://github.com/shmoergh/moduleur) — Double-voice analog modular design with a touch of digital magic
 1. [Mozard](https://github.com/thomasfredericks/Mozard) — Arduino, Mozzi -based, 6 engines synth
 1. [Multi](https://github.com/pangrus/multi/) — Generative sequencer with swappable synth engines
 1. [Mushsynth-8](https://oshwlab.com/eugeniy.carlo/touchdrone_copy_copy_copy_copy) — 8-voice polyphonic drone synth with a touch keyboard
 1. [N32B](https://github.com/Shik-Tech/N32B) — Hi-res macro MIDI controller
+1. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth AI algorithm
 1. [NTH synth](https://github.com/NTHSynth/NTH_DSP) — 8-bit hackable mono synth
 1. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) — Korg Minipops drum machine made around Arduino
@@ -95,4 +97,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-11-28
+> upd: 2025-12-15
